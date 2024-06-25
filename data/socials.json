@@ -1,6 +1,5 @@
 {
-    "content.socials.socials": [
-        {
+    "content.socials.socials": [{
             "name": "VK",
             "icon": "mdi:vk",
             "icon_type": "icon",
@@ -22,8 +21,7 @@
             "content": "https://t.me/ToilOfficial"
         }
     ],
-    "content.socials.programming": [
-        {
+    "content.socials.programming": [{
             "name": "Github",
             "icon": "mdi:github",
             "icon_type": "icon",
@@ -45,8 +43,7 @@
             "content": "https://huggingface.co/Toil"
         }
     ],
-    "content.socials.forums": [
-        {
+    "content.socials.forums": [{
             "name": "Lolzteam",
             "icon": "lolzteam",
             "icon_type": "local",
@@ -75,8 +72,7 @@
             "content": "https://csdevs.net/members/toil.36"
         }
     ],
-    "content.socials.games": [
-        {
+    "content.socials.games": [{
             "name": "Steam",
             "icon": "mdi:steam",
             "icon_type": "icon",
@@ -133,8 +129,7 @@
             "content": "https://act.hoyolab.com/app/community-game-records-sea/index.html?bbs_presentation_style=fullscreen&bbs_auth_required=true&gid=2&user_id=40847872&utm_source=share&utm_medium=link&bbs_theme=dark&bbs_theme_device=1&utm_campaign=web#/ys"
         }
     ],
-    "content.socials.anime_manga": [
-        {
+    "content.socials.anime_manga": [{
             "name": "Shikimori",
             "icon": "simple-icons:shikimori",
             "icon_type": "icon",
@@ -156,13 +151,11 @@
             "content": "https://mangadex.org/user/b9f770ef-cc80-4b07-b9b0-8561837eda70"
         }
     ],
-    "content.socials.other": [
-        {
-            "name": "Mail",
-            "icon": "material-symbols:mail",
-            "icon_type": "icon",
-            "action_type": "mail",
-            "content": "mailto:me@toil.cc"
-        }
-    ]
+    "content.socials.other": [{
+        "name": "Mail (read desc)",
+        "icon": "material-symbols:mail",
+        "icon_type": "icon",
+        "action_type": "modal",
+        "content": "Due to a small experiment, mail temporarily works in read only mode. Also, I do not guarantee that your emails will be 100% viewed or delivered. Thanks for understanding. Mail: me@toil.cc"
+    }]
 }
